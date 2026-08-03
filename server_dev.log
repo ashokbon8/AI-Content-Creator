@@ -1,0 +1,36 @@
+
+> ai-content-generator@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.19
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.2:3000
+
+ ✓ Starting...
+ ⚠ Duplicate page detected. app/api/crate-subscription/route.js and app/api/crate-subscription/route.ts resolve to /api/crate-subscription
+ ⚠ Duplicate page detected. app/api/crate-subscription/route.js and app/api/crate-subscription/route.ts resolve to /api/crate-subscription
+ ✓ Ready in 1946ms
+ ○ Compiling /middleware ...
+ ✓ Compiled /middleware in 1543ms (218 modules)
+ ⨯ [Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.]
+ ○ Compiling /_error ...
+ ✓ Compiled /_error in 3.5s (376 modules)
+ GET / 404 in 5ms
+ ○ Compiling /_not-found ...
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ [Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.]
+ ✓ Compiled /_not-found in 13.5s (1290 modules)
+ ⨯ [Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.]
+ ⚠ Fast Refresh had to perform a full reload due to a runtime error.
+ ⨯ [Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.]
+ GET / 404 in 2ms
+ ⨯ [Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.]
+ GET / 404 in 5ms
+ ✓ Compiled in 418ms (472 modules)
+ ⨯ [Error: @clerk/nextjs: Missing publishableKey. You can get your key at https://dashboard.clerk.com/last-active?path=api-keys.]
+ GET / 404 in 3ms
+ ✓ Compiled in 215ms (218 modules)
+ ○ Compiling / ...
+ ✓ Compiled / in 4.2s (2153 modules)
+ GET / 200 in 5012ms
+ ⚠ The "images.domains" configuration is deprecated. Please use "images.remotePatterns" configuration instead.
