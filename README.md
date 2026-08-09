@@ -107,21 +107,6 @@ We welcome contributions to the **AI Content Generator** project! To contribute:
 5. Create a new Pull Request
 
 
-<h1 align=center>
-
-## Project Admin
-
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Medium%20Skin%20Tone.png" alt="man-techno" height=40 width=40> </h1>
-
-<p align="center">
-  <a href="https://github.com/omharde42"><img src="https://github.com/omharde42.png" width="17%" style="border-radius: 50%" /></a>
-</p>
-
-<div align="center">
-  <h3><strong>omharde42</strong></h3>
-</div>
-
-
 ## 📑Code Of Conduct
 
 This project and everyone participating in it is governed by the [Code of Conduct](CODE_OF_CONDUCT.md). By participating, you are expected to uphold this code.
